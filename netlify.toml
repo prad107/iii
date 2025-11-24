@@ -1,0 +1,4 @@
+[build]
+  # No build command needed for this static site
+  command = "echo 'No build required'"
+  publish = "."
