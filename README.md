@@ -1,3 +1,4 @@
+[index (1).html](https://github.com/user-attachments/files/23736943/index.1.html)
 # [readme (4).md](https://github.com/user-attachments/files/23736879/readme.4.md)
 # interval traders learning app
 
