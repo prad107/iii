@@ -1,4 +1,14 @@
 [index (1).html](https://github.com/user-attachments/files/23736943/index.1.html)
+# [readme (4).md](https://github.com/user-attachments/files/23736879/readme.4.md)
+# interval traders learning app
+
+A Pen created on CodePen.
+
+Original URL: [https://codepen.io/Shabirah-Newton/pen/KwzyGVr](https://codepen.io/Shabirah-Newton/pen/KwzyGVr).
+
+learn how to trade in minutes 
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDnZsN5huZu4S1Ia9vZyZIjqu291SkHUNIoDq9cDxTLP//scI6HT9K1EpSyT0apltKHJi9IDCwgA98Atyojw8Hfo6Dt0HwKVKeeoRkaaf9w8btwIUqVKkZRgpP8G7akWFDY4Kpmzah0OPm23cpTdkezpVLDmqcFF4f2pNVD1g5WJRqs33eKb15LSr8nspkwkKrguYXVRrjr9NXreVInPmNfdQhWw/GkTEji8ad/r9HIOi/RsWFpKImbPG4SiP1720VvWG03TKU2bCbP1nldGmcXABJUdCPytvTW1BluDG0/Vd1ctD3zVwOZMsKRn/dyjZRg1WKUrz79iqEHcKQiROELFFS/ozxoYQziJlc3A3XqIYj3MOl/bGg4/dqE0Wuc27PLoVk2/NGuRwDUMH4jEYOroghjhawFT0RtkLvF7GKznB+QBaVvQmCFhCY7gMX+lo5fpuWK5x7nnC6JWcNKfGZ/BOtWaiTXDL7Wb6a9TWyyAjGd+/SyHT8Ie9L93C0fYavysTdd4IlzF73ZQqgpJ4Wh6OFVlYPzmI3iGAUkciwlHhHmWsYCogl71t1WJQOOi+Q1op6BEgWqNZoHc0q+T2t6vDT2j951uBKcJkoj9/YFNR3okhpbYpq5PQIroOQNwo/ieYrHFxFbpS/TTVTxGeTBO81HpVRaB1dAXoYzTBHbMw==
+[index (1).html](https://github.com/user-attachments/files/23737048/index.1.html)
 <!doctype html>
 <html lang="en">
 <head>
